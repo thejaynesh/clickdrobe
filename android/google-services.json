@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924192318485",
+    "project_id": "clickdrobe",
+    "storage_bucket": "clickdrobe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924192318485:android:534fc575ec2874d5675a1c",
+        "android_client_info": {
+          "package_name": "com.clickdrobe.clickdrobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924192318485-83r5go25eforhi5u4avoignv6786f84k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clickdrobe.clickdrobe",
+            "certificate_hash": "88d2246155a8c064c2a6fc8118316fd3b3914a2c"
+          }
+        },
+        {
+          "client_id": "924192318485-gutrnsh9558jtvmcqqldds7qnh2m2b8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3D8vDXLBckIkTpreYUu08P07LA2pPRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924192318485-gutrnsh9558jtvmcqqldds7qnh2m2b8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
